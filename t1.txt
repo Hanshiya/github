@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Github is a core hosting platform.
+=======
+Github is a core hosting platform.
+gitmethod
+>>>>>>> f4eb7a67a3a9ec6557dff33733f4d6f47835fd23
