@@ -1,0 +1,2 @@
+Branch allows you to work on other features
+They can be include with the main line of your project.
